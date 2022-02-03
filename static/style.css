@@ -1,0 +1,15 @@
+.banner {
+  background-color: cadetblue;
+  text-align: center;
+  width: auto;
+  height: 100px;
+  margin-bottom: 50px;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.container {
+  margin-left: 0%;
+}
